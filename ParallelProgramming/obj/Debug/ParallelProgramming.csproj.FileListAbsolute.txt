@@ -1,0 +1,7 @@
+E:\angular_test\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.exe.config
+E:\angular_test\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.exe
+E:\angular_test\ParallelProgramming\ParallelProgramming\bin\Debug\ParallelProgramming.pdb
+E:\angular_test\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.csprojResolveAssemblyReference.cache
+E:\angular_test\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.csproj.CoreCompileInputs.cache
+E:\angular_test\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.exe
+E:\angular_test\ParallelProgramming\ParallelProgramming\obj\Debug\ParallelProgramming.pdb
